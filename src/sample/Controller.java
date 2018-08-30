@@ -1,4 +1,12 @@
 package sample;
 
-public class Controller {
-}
+import javafx.event.ActionEvent;
+
+public class Controller}
+    @FXML TextField password;
+    public void touchLogin(ActionEvent action Event) {
+
+
+
+
+    }
